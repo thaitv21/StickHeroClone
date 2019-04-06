@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7DD92793-83E6-AE95-7B19-5BB170709F64}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MainMove.cs">
+    <Files>
+      <File FileName="Assets/Script/MainMove.cs" Line="82" Column="55" />
+      <File FileName="Assets/Script/BGHit.cs" Line="14" Column="3" />
+      <File FileName="Assets/Script/ScoreUI.cs" Line="38" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
